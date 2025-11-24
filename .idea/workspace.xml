@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc0cd814-bfd7-4711-b27d-5c62694bc82e" name="Changes" comment="" />
+    <list default="true" id="cc0cd814-bfd7-4711-b27d-5c62694bc82e" name="Changes" comment="Initial commit with CI/CD setup">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/CalculatorTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +60,41 @@
       <option name="presentableId" value="Default" />
       <updated>1764007921992</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit with CI/CD setup">
+      <option name="closed" value="true" />
+      <created>1764008950189</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1764008950189</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="9317c76e-e9c8-47ce-ae41-dc6d3d791e88" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="9317c76e-e9c8-47ce-ae41-dc6d3d791e88">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit with CI/CD setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit with CI/CD setup" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

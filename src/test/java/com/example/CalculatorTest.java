@@ -1,4 +1,4 @@
-package test.java.com.example;
+package com.example;
 
 import main.java.com.example.Calculator;
 import org.junit.jupiter.api.Test;
