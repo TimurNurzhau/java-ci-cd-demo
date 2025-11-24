@@ -1,6 +1,5 @@
 package com.example;
 
-import main.java.com.example.Calculator;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
